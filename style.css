@@ -19,7 +19,8 @@ a.dropdown-toggle:hover {
 }
 
 #max-temp-figure,
-#cloudiness-figure {
+#cloudiness-figure, 
+#humidity-figure {
   float: left;
 }
 
